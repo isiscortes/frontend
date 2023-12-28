@@ -1,5 +1,4 @@
 
-Setup
 To view the following project:
 
 Use git clone to download the file to your desktop.
